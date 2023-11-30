@@ -1,0 +1,20 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "Assignment9-Cloud",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aravind",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^7.6.0",
+    "aws-sdk": "^2.1507.0",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "mailgun-js": "^0.22.0",
+    "util": "^0.12.5"
+  }
+}
